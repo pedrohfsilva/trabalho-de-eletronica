@@ -12,7 +12,7 @@ Buscamos diagramar e construir uma fonte com capacidade para até 100mA de corre
 
 O Transformador é necessário para ajustar a tensão alternada residencial com tensão maxima de 179.6V e frequência de 60Hz para uma tensão que o aparelho possa receber.
 
-A tensão eficaz de um Transformador é o equivalente contínuo de uma fonte alternada e seu cálculo é dado por:  
+A tensão eficaz é o equivalente contínuo de uma fonte alternada e seu cálculo é dado por:  
 
 ![equation](https://latex.codecogs.com/svg.image?&space;V_{ef}=\frac{V_{max}}{\sqrt{2}})
 
