@@ -14,9 +14,9 @@ O Transformador é necessário para ajustar a tensão alternada residencial com 
 
 A tensão eficaz é o equivalente contínuo de uma fonte alternada e seu cálculo é dado por:  
 
-$V{ef}=\frac{V{max}}{\sqrt{2}}$
-$V{ef}=\frac{179.6}{\sqrt{2}}$
-$V{ef}\approx&space;127$
+$$V{ef}=\frac{V{max}}{\sqrt{2}}$$
+$$V{ef}=\frac{179.6}{\sqrt{2}}$$
+$$V{ef}\approx&space;127$$
 
 A razão entre o número de voltas na espira primária e secundária é diretamente proporcional a razão entre a voltagem primária e secundária 
 
