@@ -18,7 +18,7 @@ $V{ef}=\frac{V{max}}{\sqrt{2}}$
 
 $V{ef}=\frac{179.6}{\sqrt{2}}$
 
-$V{ef}\approx&space;127$
+$V{ef}\approx127$
 
 A razão entre o número de voltas na espira primária e secundária é diretamente proporcional a razão entre a voltagem primária e secundária 
 
