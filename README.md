@@ -22,12 +22,12 @@ $V{ef}\approx127$
 
 A razão entre o número de voltas na espira primária e secundária é diretamente proporcional a razão entre a voltagem primária e secundária 
 
-![image](https://s3.static.brasilescola.uol.com.br/img/2019/05/transformador.jpg)
+![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/1f843eb6-1e2e-46d0-9f88-eb5aba02f8c8)
 
 
 Logo, a equação se dá por:
 
-&\frac{V_1}{V_2}=\frac{N_1}{N_2}&
+$\frac{V_1}{V_2}=\frac{N_1}{N_2}$
 
 Aplicando:
 
