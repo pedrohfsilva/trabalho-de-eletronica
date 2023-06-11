@@ -33,5 +33,17 @@ Aplicando:
 
 179.6/o que queremos = n1/n2;
 
+## Diodos / Ponte de diodos
+
+Será necessária uma ponte de diodos para retificar a corrente (manter o sentido da corrente após o transformador)
+Um diodo permite que a corrente passe em apenas um sentido. Uma ponte de diodos associa 4 diodos como mostrado na imagem para que a fonte alternada de tensões positivas e negativas se polarize apenas em tensões positivas.
+
+![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/e82fc914-da09-455a-b5ef-d3aa6a5a751c)
+
+Cada diodo de sílicio consome cerca de 0.7V, e como são utilizados dois por vez, um consumo de 1.4V deve ser considerado. 
+
+## Capacitor
+
+
 
 
