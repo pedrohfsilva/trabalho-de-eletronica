@@ -14,6 +14,8 @@ O Transformador é necessário para ajustar a tensão alternada residencial com 
 
 A tensão eficaz é o equivalente contínuo de uma fonte alternada e seu cálculo é dado por:  
 
+$\frac{a}{b}$
+
 ![equation](https://latex.codecogs.com/svg.image?&space;V_{ef}=\frac{V_{max}}{\sqrt{2}})
 
 ![equation](https://latex.codecogs.com/svg.image?V_{ef}=\frac{179.6}{\sqrt{2})
