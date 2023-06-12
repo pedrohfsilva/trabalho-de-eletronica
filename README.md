@@ -35,10 +35,22 @@ Aplicando:
 
 ## Diodos / Ponte de diodos
 
-Será necessária uma ponte de diodos para retificar a corrente (manter o sentido da corrente após o transformador)
+Sem diodos e com uma transformador n1/n2 = 10, a tensao em uma resistência, varia conforme o seguinte gráfico (apresentando tensões negativas, o que não é desejado)
+
+![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/8dba6314-f129-4f2b-b983-e84d2f787b04)
+
+Com uma retificador de meia onda, ou seja, apenas um diodo, a tensão em uma resistencia varia da seguinte maneira
+
+![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/bcdb7ee7-a130-4338-96fd-8f611e7a08c7)
+
+Assim, será necessária uma ponte de diodos para retificar a corrente (manter o sentido da corrente após o transformador)
 Um diodo permite que a corrente passe em apenas um sentido. Uma ponte de diodos associa 4 diodos como mostrado na imagem para que a fonte alternada de tensões positivas e negativas se polarize apenas em tensões positivas.
 
 ![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/e82fc914-da09-455a-b5ef-d3aa6a5a751c)
+
+![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/c2eb18fb-68f5-42f5-aa4a-363e8e6bfe75)
+
+(note que dois diodos consomem cerca de 1.4v)
 
 Cada diodo de sílicio consome cerca de 0.7V, e como são utilizados dois por vez, um consumo de 1.4V deve ser considerado. 
 
