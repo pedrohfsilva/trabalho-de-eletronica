@@ -60,9 +60,9 @@ Apos retificar a tensão, é necessário evitar que ela chegue a 0. Para isso, u
 
 Em eletrônica, capacitância é uma grandeza oposta à voltagem, sendo gerada pelo acúmulo de carga em uma determinada região, sendo que há inexistência de corrente entre uma região e outra. 
 Dessa forma, capacitores são dispositivos compostos por duas placas isoladas entre si e próximas, assim ao passar uma corrente por ele (a corrente não passa realmente pela existência de material isolante entre as placas, apenas é gerada pela indução das cargas), um dos lados terá acúmulo de elétrons que gerará uma indução crescente até que as placas atinjam seu limite de carga (no infinito). Quando a tensão da fonte for menor do que a sua interna, a carga acumulada gerará uma corrente no sentido inverso, até que ela seja novamente 0 (o que não chega a acontecer no nosso circuito).
-O tempo de carga de um capacitor até que esse chegue a 98% de carga, pode ser aproximado por t = 5.R.C.
+O tempo de carga de um capacitor até que esse chegue a 98%, pode ser aproximado por t = 5.R.C.
 ![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/8ad8f747-13f5-4e99-9d3e-3284eff435e2)
-Esse agora é o comportamento da tensão, com um capacitor em paralelo no circuito, a tensão ainda varia nesse padrão que se denomina ripple. E o flaor do ripple(diferença entre máximo e mínimo) é calculado por ripple = (V2-2*D)/(2*f*C*R)
+Esse agora é o comportamento da tensão, com um capacitor em paralelo no circuito, a tensão ainda varia nesse padrão que se denomina ripple. E o valor do ripple(diferença entre máximo e mínimo) é calculado por ripple = (V2-2*D)/(2*f*C*R)
 Considerando um ripple de 4.7% após a ponte de diodos (equivalente a 0.755V) e aplicando na fórmula, a capcitância encontrada é de 1mF, que é um valor comercial.
 Agora, resta eliminar o ripple.
 
