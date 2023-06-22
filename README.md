@@ -31,11 +31,11 @@ $\frac{V_1}{V_2}=\frac{N_1}{N_2}$
 
 Aplicando:
 
-179.6/17.3 = n1/n2;
+$\frac{179.6}{17.3}=\frac{N_1}{N_2}$
 
 ## Diodos / Ponte de diodos
 
-Sem diodos e com uma transformador n1/n2 = 10, a tensao em uma resistência, varia conforme o seguinte gráfico (apresentando tensões negativas, o que não é desejado)
+Sem diodos e com uma transformador $\frac{N_1}{N_2}=10$, a tensao em uma resistência, varia conforme o seguinte gráfico (apresentando tensões negativas, o que não é desejado)
 
 ![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/8dba6314-f129-4f2b-b983-e84d2f787b04)
 
@@ -60,15 +60,47 @@ Apos retificar a tensão, é necessário evitar que ela chegue a 0. Para isso, u
 
 Em eletrônica, capacitância é uma grandeza oposta à voltagem, sendo gerada pelo acúmulo de carga em uma determinada região, sendo que há inexistência de corrente entre uma região e outra. 
 Dessa forma, capacitores são dispositivos compostos por duas placas isoladas entre si e próximas, assim ao passar uma corrente por ele (a corrente não passa realmente pela existência de material isolante entre as placas, apenas é gerada pela indução das cargas), um dos lados terá acúmulo de elétrons que gerará uma indução crescente até que as placas atinjam seu limite de carga (no infinito). Quando a tensão da fonte for menor do que a sua interna, a carga acumulada gerará uma corrente no sentido inverso, até que ela seja novamente 0 (o que não chega a acontecer no nosso circuito).
-O tempo de carga de um capacitor até que esse chegue a 98%, pode ser aproximado por t = 5.R.C.
+O tempo de carga de um capacitor até que esse chegue a 98%, pode ser aproximado por $t=5\cdot R\cdot C$
 
 ![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/8ad8f747-13f5-4e99-9d3e-3284eff435e2)
 
-Esse agora é o comportamento da tensão, com um capacitor em paralelo no circuito, a tensão ainda varia nesse padrão que se denomina ripple. E o valor do ripple(diferença entre máximo e mínimo) é calculado por ripple = (V2-2*D)/(2*f*C*R)
+Esse agora é o comportamento da tensão, com um capacitor em paralelo no circuito, a tensão ainda varia nesse padrão que se denomina ripple. E o valor do ripple(diferença entre máximo e mínimo) é calculado por ripple = $\frac{V_2-2\cdot D}{2\cdot f\cdot C\cdot R}$
 
 Considerando um ripple de 4.7% após a ponte de diodos (equivalente a 0.755V) e aplicando na fórmula, a capcitância encontrada é de 1mF, que é um valor comercial.
 Agora, resta eliminar o ripple.
 
+
+# Tabela de Preços
+
+|Componente|Preço unitário|Quantidade|Subtotal
+|---|---|---|---|
+[Led 5mm Verde](https://www.baudaeletronica.com.br/produto/led-difuso-5mm-verde)|R$ 0,27|1|R$ 0,27
+[LED Difuso 3mm Vermelho](https://www.baudaeletronica.com.br/produto/led-difuso-3mm-vermelho)|R$ 0,25|3|R$ 0,75
+[LED Difuso 5mm Azul](https://www.baudaeletronica.com.br/produto/led-difuso-5mm-azul)|R$ 0,27|1|R$ 0,27
+[Resistor 820R 5% (2W)](https://www.baudaeletronica.com.br/produto/resistor-820r-5-2w.html)|R$ 0,42|4|R$ 1,68
+[Transistor NPN 2N2222](https://www.baudaeletronica.com.br/produto/transistor-npn-2n2222.html)|R$ 0,55|4|R$ 2,20
+[Ponte Retificadora KBPC1010](https://www.baudaeletronica.com.br/produto/ponte-retificadora-kbpc1010.html)|R$ 4,90|2|R$ 9,80
+[Capacitor Eletrolítico 1000uF / 25V](https://www.baudaeletronica.com.br/produto/capacitor-eletrolitico-1000uf-25v-105c.html)|R$ 0,95|4|R$ 3,80
+[Resistor 82R 5% (2W)](https://www.baudaeletronica.com.br/produto/resistor-82r-5-2w.html)|R$ 0,42|3|R$ 1,26
+[Potenciômetro Linear de 10K (10000Ω)](https://www.baudaeletronica.com.br/produto/potenciometro-linear-de-10k-10000.html)|R$ 2,70|1|R$ 2,70
+[Diodo Zener BZX55C (13V / 0.5W)](https://www.baudaeletronica.com.br/produto/diodo-zener-bzx55c-13v-05w.html)|R$ 0,09|5|R$ 0,45
+[Resistor 5K1 5% (2W)](https://www.baudaeletronica.com.br/produto/resistor-5k1-5-2w.html)|R$ 0,42|3|R$ 1,26
+[Protoboard 170 Pontos Azul](https://www.baudaeletronica.com.br/produto/protoboard-170-pontos-azul.html)|R$ 4,75|2|R$ 9,50
+[Resistor 3K 5% (1/4W)](https://www.baudaeletronica.com.br/produto/resistor-3k-5-14w.html)|R$ 0,06|4|R$ 0,24
+Frete|||R$ 18,16
+TOTAL:|||R$ 52,34
+
+# Circuito do Falstad
+![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/blob/main/Imagens/falstad.PNG)
+
+## Link para o circuito
+https://tinyurl.com/2n39c8h2
+
+# Esquemático da PCB (EAGLE)
+![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/blob/main/Imagens/esquematico.PNG)
+
+# PCB (EAGLE)
+![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/blob/main/Imagens/PCB.PNG)
 
 
 
