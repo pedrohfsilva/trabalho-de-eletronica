@@ -125,4 +125,9 @@ https://tinyurl.com/2n39c8h2
 ![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/blob/main/Imagens/PCB.PNG)
 
 
+## Alunos
 
+Bruno Figueiredo Lima - 14562383
+Gabriel Antunes Afonso de Araujo - 14571077
+Lázaro Pereira Vinaud Neto - 14675396
+Pedro Henrique Ferreira Silva - 14677526
