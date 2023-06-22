@@ -128,6 +128,9 @@ https://tinyurl.com/2n39c8h2
 ## Alunos
 
 Bruno Figueiredo Lima - 14562383
+
 Gabriel Antunes Afonso de Araujo - 14571077
+
 Lázaro Pereira Vinaud Neto - 14675396
+
 Pedro Henrique Ferreira Silva - 14677526
