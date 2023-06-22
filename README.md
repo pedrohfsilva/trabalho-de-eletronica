@@ -71,7 +71,11 @@ Agora, resta eliminar o ripple.
 
 ## Diodo zener
 
-O diodo zener é um componente eletrônico que permite a passagem da corrente em apenas um sentido. Ele é utilizado na fonte como um regulador de tensão, com o objetivo de manter uma corrente contínua. Para este projeto, a sua tensão limite é de 13V, pois, se esse limite não for atingido, ele não se torna condutor e 13V é o valor comercial mais próximo acima de 12,7V(valor do transitor mais o valor máximo fornecido). Além disso, ele opera a uma potência de 500 miliwatts.
+O diodo zener é um componente eletrônico que permite a passagem da corrente em apenas um sentido como um diodo normal, no outro sentido ele consome uma tensão cosntante. Ele é utilizado na fonte como um regulador de tensão, com o objetivo de manter uma corrente contínua. Para este projeto, a sua tensão limite é de 13V, pois, se esse limite não for atingido, ele não se torna condutor e 13V é o valor comercial mais próximo acima de 12,7V(valor do transitor mais o valor máximo fornecido). Além disso, ele opera a uma potência de 500 miliwatts.
+
+
+![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/3ec42bf5-eec7-451e-8fe3-abe763374f84)
+
 
 ## Transistor
 
