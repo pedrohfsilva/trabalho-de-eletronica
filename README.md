@@ -69,6 +69,23 @@ Esse agora é o comportamento da tensão, com um capacitor em paralelo no circui
 Considerando um ripple de 4.7% após a ponte de diodos (equivalente a 0.755V) e aplicando na fórmula, a capcitância encontrada é de 1mF, que é um valor comercial.
 Agora, resta eliminar o ripple.
 
+## Transistor
+
+O transistor bipolar é um componente que funciona como amplificador de corrente, sendo que a corrente do coletor para a base é cerca de 100 vezes menor do que a corrente da base para o emissor.
+
+
+
+Utilizaremos ele para permitir a passagem da corrente estabilizada ao mesmo tempo em que recebe a tensão controlada pelo zener. O transistor consome 0.7V.
+
+## Potenciometro
+
+O potenciometro opera como uma resistência variável para permitir a troca de tensão fornecida. Quando o seu valor é mínimo, a tensão fornecida é a mesma da tensão que o zener permite menos a tensão consumida pelo transistor. Para corrigir isso, adicionamos uma resistência de 82 ohms em série para consumir cerca de 0.3v e entregar os 12V especificados.
+Quando a resistência é máxima, a potência entregue é 0V. Para corrigir isso, adicionamos uma resistência de 5.1k após o potênciometro para que a voltagem mínima seja de cerca 3V.
+Foi utilizado um potênciometro de 10k.
+
+
+
+
 
 # Tabela de Preços
 
