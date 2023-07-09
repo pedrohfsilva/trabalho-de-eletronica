@@ -124,7 +124,7 @@ TOTAL:|||R$ 52,34
 ![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/66eed953-7a0f-43e5-9c45-76e59f573b6a)
 
 # PCB (EAGLE)
-![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/blob/main/Imagens/PCB.PNG)
+![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/b41a2433-a441-42ef-9f6e-2c42e77f42bc)
 
 
 ## Alunos
