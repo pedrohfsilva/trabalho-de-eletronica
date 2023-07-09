@@ -121,7 +121,7 @@ TOTAL:|||R$ 52,34
 [https://tinyurl.com/24aza57k](https://tinyurl.com/2dmqjkqc)
 
 # Esquemático da PCB (EAGLE)
-![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/blob/main/Imagens/esquematico.PNG)
+![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/66eed953-7a0f-43e5-9c45-76e59f573b6a)
 
 # PCB (EAGLE)
 ![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/blob/main/Imagens/PCB.PNG)
