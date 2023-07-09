@@ -1,4 +1,3 @@
-
 # Fonte de Tensão ajustável(3v - 12v)
 
 Buscamos diagramar e construir uma fonte com capacidade para até 100mA de corrente e uma tensão ajustável dada uma fonte inicial de 127V.
@@ -87,7 +86,7 @@ Utilizaremos ele para permitir a passagem da corrente estabilizada ao mesmo temp
 
 ## Potenciometro
 
-O potenciometro opera como uma resistência variável para permitir a troca de tensão fornecida. Quando o seu valor é mínimo, a tensão fornecida é a mesma da tensão que o zener permite menos a tensão consumida pelo transistor. Quando a resistência é máxima, a potência entregue é 0V. Para corrigir isso, adicionamos duas resistências de 820 em série após o potênciometro para que a voltagem mínima seja de cerca 1.2V.
+O potenciometro opera como uma resistência variável para permitir a troca de tensão fornecida. Quando o seu valor é mínimo, a tensão fornecida é a mesma da tensão que o zener permite menos a tensão consumida pelo transistor. Quando a resistência é máxima, a potência entregue é 0V. Para corrigir isso, adicionamos duas resistências de 820 em série após o potênciometro para que a voltagem mínima seja de cerca de 1.2V.
 Foi utilizado um potênciometro de 10k.
 
 
@@ -115,10 +114,11 @@ Frete|||R$ 18,16
 TOTAL:|||R$ 52,34
 
 # Circuito do Falstad
-![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/blob/main/Imagens/falstad.PNG)
+
+![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/a64a226c-209f-4a9d-94b2-f00cd8173961)
 
 ## Link para o circuito
-[https://tinyurl.com/2bppeaun](https://tinyurl.com/26yewllb)
+[https://tinyurl.com/24aza57k](https://tinyurl.com/2dmqjkqc)
 
 # Esquemático da PCB (EAGLE)
 ![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/blob/main/Imagens/esquematico.PNG)
