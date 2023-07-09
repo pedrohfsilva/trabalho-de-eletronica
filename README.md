@@ -31,7 +31,7 @@ $\frac{V_1}{V_2}=\frac{N_1}{N_2}$
 
 Aplicando:
 
-$\frac{179.6}{17.3}=\frac{N_1}{N_2}$
+$\frac{179.6}{24.6}=\frac{N_1}{N_2}$
 
 ## Diodos / Ponte de diodos
 
@@ -119,7 +119,7 @@ TOTAL:|||R$ 52,34
 ![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/blob/main/Imagens/falstad.PNG)
 
 ## Link para o circuito
-https://tinyurl.com/2bppeaun
+[https://tinyurl.com/2bppeaun](https://tinyurl.com/26yewllb)
 
 # Esquemático da PCB (EAGLE)
 ![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/blob/main/Imagens/esquematico.PNG)
