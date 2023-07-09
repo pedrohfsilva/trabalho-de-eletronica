@@ -87,8 +87,7 @@ Utilizaremos ele para permitir a passagem da corrente estabilizada ao mesmo temp
 
 ## Potenciometro
 
-O potenciometro opera como uma resistência variável para permitir a troca de tensão fornecida. Quando o seu valor é mínimo, a tensão fornecida é a mesma da tensão que o zener permite menos a tensão consumida pelo transistor. Para corrigir isso, adicionamos uma resistência de 82 ohms em série para consumir cerca de 0.3v e entregar os 12V especificados.
-Quando a resistência é máxima, a potência entregue é 0V. Para corrigir isso, adicionamos uma resistência de 5.1k após o potênciometro para que a voltagem mínima seja de cerca 3V.
+O potenciometro opera como uma resistência variável para permitir a troca de tensão fornecida. Quando o seu valor é mínimo, a tensão fornecida é a mesma da tensão que o zener permite menos a tensão consumida pelo transistor. Quando a resistência é máxima, a potência entregue é 0V. Para corrigir isso, adicionamos duas resistências de 820 em série após o potênciometro para que a voltagem mínima seja de cerca 1.2V.
 Foi utilizado um potênciometro de 10k.
 
 
