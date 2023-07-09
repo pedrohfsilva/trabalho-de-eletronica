@@ -119,7 +119,7 @@ TOTAL:|||R$ 52,34
 ![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/blob/main/Imagens/falstad.PNG)
 
 ## Link para o circuito
-[https://tinyurl.com/2n39c8h2]
+https://tinyurl.com/2bppeaun
 
 # Esquemático da PCB (EAGLE)
 ![image](https://github.com/pedrohfsilva/trabalho-de-eletronica/blob/main/Imagens/esquematico.PNG)
