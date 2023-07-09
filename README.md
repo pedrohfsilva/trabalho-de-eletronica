@@ -66,10 +66,10 @@ O tempo de carga de um capacitor até que esse chegue a 98%, pode ser aproximado
 
 Esse agora é o comportamento da tensão, com um capacitor em paralelo no circuito, a tensão ainda varia nesse padrão que se denomina ripple. E o valor do ripple(diferença entre máximo e mínimo) é calculado por ripple = $\frac{V_2-2\cdot D}{2\cdot f\cdot C\cdot R}$
 
-O valor máximo é a tensão após a fonte de diodos, que é 17,3(medido no transformador)-2Diodos, = 15.98V
-O valor mínimo é o maximo decrescido do ripple.
+O valor máximo é a tensão após a fonte de diodos, que é 24.6(medido no transformador)-2Diodos, = 23.2V
+O valor mínimo é o maximo decrescido do ripple(cerca de 23.6V, considerando um ripple de 4.3%).
 
-Considerando um ripple de 4.7% após a ponte de diodos (equivalente a 0.755V) e aplicando na fórmula, a capcitância encontrada é de 1mF, que é um valor comercial.
+Considerando um ripple de 4.3% após a ponte de diodos (equivalente a 1V) e aplicando na fórmula, a capcitância encontrada é de 1mF, que é um valor comercial.
 Agora, resta eliminar o ripple.
 
 ## Diodo zener
