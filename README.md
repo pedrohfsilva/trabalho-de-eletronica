@@ -133,7 +133,7 @@ TOTAL:|||R$ 52,34
 ![1111](https://github.com/pedrohfsilva/trabalho-de-eletronica/assets/128495824/c4a3ebe4-2d6f-4cb6-807d-780ecd8228d0)
 
 # Vídeo - Projeto
-
+https://youtu.be/xrW4_Q9_DJc
 
 ## Alunos
 
